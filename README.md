@@ -64,7 +64,7 @@ The dataset contains retail sales information including:
 *(Add your screenshots here)*
 
 ```markdown
-![Dashboard](your-dashboard-image.png)
+![Dashboard](dashboard.png)
 ```
 
 ---
